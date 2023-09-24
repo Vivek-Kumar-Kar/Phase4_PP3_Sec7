@@ -1,0 +1,62 @@
+F:\Phase4\Practice Project\PP3-Sec7\WebAppBank\WebAppBank\bin\Debug\net6.0\appsettings.Development.json
+F:\Phase4\Practice Project\PP3-Sec7\WebAppBank\WebAppBank\bin\Debug\net6.0\appsettings.json
+F:\Phase4\Practice Project\PP3-Sec7\WebAppBank\WebAppBank\bin\Debug\net6.0\WebAppBank.staticwebassets.runtime.json
+F:\Phase4\Practice Project\PP3-Sec7\WebAppBank\WebAppBank\bin\Debug\net6.0\WebAppBank.exe
+F:\Phase4\Practice Project\PP3-Sec7\WebAppBank\WebAppBank\bin\Debug\net6.0\WebAppBank.deps.json
+F:\Phase4\Practice Project\PP3-Sec7\WebAppBank\WebAppBank\bin\Debug\net6.0\WebAppBank.runtimeconfig.json
+F:\Phase4\Practice Project\PP3-Sec7\WebAppBank\WebAppBank\bin\Debug\net6.0\WebAppBank.dll
+F:\Phase4\Practice Project\PP3-Sec7\WebAppBank\WebAppBank\bin\Debug\net6.0\WebAppBank.pdb
+F:\Phase4\Practice Project\PP3-Sec7\WebAppBank\WebAppBank\obj\Debug\net6.0\WebAppBank.csproj.AssemblyReference.cache
+F:\Phase4\Practice Project\PP3-Sec7\WebAppBank\WebAppBank\obj\Debug\net6.0\WebAppBank.GeneratedMSBuildEditorConfig.editorconfig
+F:\Phase4\Practice Project\PP3-Sec7\WebAppBank\WebAppBank\obj\Debug\net6.0\WebAppBank.AssemblyInfoInputs.cache
+F:\Phase4\Practice Project\PP3-Sec7\WebAppBank\WebAppBank\obj\Debug\net6.0\WebAppBank.AssemblyInfo.cs
+F:\Phase4\Practice Project\PP3-Sec7\WebAppBank\WebAppBank\obj\Debug\net6.0\WebAppBank.csproj.CoreCompileInputs.cache
+F:\Phase4\Practice Project\PP3-Sec7\WebAppBank\WebAppBank\obj\Debug\net6.0\WebAppBank.MvcApplicationPartsAssemblyInfo.cache
+F:\Phase4\Practice Project\PP3-Sec7\WebAppBank\WebAppBank\obj\Debug\net6.0\WebAppBank.RazorAssemblyInfo.cache
+F:\Phase4\Practice Project\PP3-Sec7\WebAppBank\WebAppBank\obj\Debug\net6.0\WebAppBank.RazorAssemblyInfo.cs
+F:\Phase4\Practice Project\PP3-Sec7\WebAppBank\WebAppBank\obj\Debug\net6.0\staticwebassets\msbuild.WebAppBank.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Phase4\Practice Project\PP3-Sec7\WebAppBank\WebAppBank\obj\Debug\net6.0\staticwebassets\msbuild.build.WebAppBank.props
+F:\Phase4\Practice Project\PP3-Sec7\WebAppBank\WebAppBank\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebAppBank.props
+F:\Phase4\Practice Project\PP3-Sec7\WebAppBank\WebAppBank\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebAppBank.props
+F:\Phase4\Practice Project\PP3-Sec7\WebAppBank\WebAppBank\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Phase4\Practice Project\PP3-Sec7\WebAppBank\WebAppBank\obj\Debug\net6.0\staticwebassets.build.json
+F:\Phase4\Practice Project\PP3-Sec7\WebAppBank\WebAppBank\obj\Debug\net6.0\staticwebassets.development.json
+F:\Phase4\Practice Project\PP3-Sec7\WebAppBank\WebAppBank\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Phase4\Practice Project\PP3-Sec7\WebAppBank\WebAppBank\obj\Debug\net6.0\scopedcss\bundle\WebAppBank.styles.css
+F:\Phase4\Practice Project\PP3-Sec7\WebAppBank\WebAppBank\obj\Debug\net6.0\scopedcss\projectbundle\WebAppBank.bundle.scp.css
+F:\Phase4\Practice Project\PP3-Sec7\WebAppBank\WebAppBank\obj\Debug\net6.0\WebAppBank.dll
+F:\Phase4\Practice Project\PP3-Sec7\WebAppBank\WebAppBank\obj\Debug\net6.0\refint\WebAppBank.dll
+F:\Phase4\Practice Project\PP3-Sec7\WebAppBank\WebAppBank\obj\Debug\net6.0\WebAppBank.pdb
+F:\Phase4\Practice Project\PP3-Sec7\WebAppBank\WebAppBank\obj\Debug\net6.0\WebAppBank.genruntimeconfig.cache
+F:\Phase4\Practice Project\PP3-Sec7\WebAppBank\WebAppBank\obj\Debug\net6.0\ref\WebAppBank.dll
+F:\Phase4\PracticeProject\Prac_Proj\WebAppBank\WebAppBank\bin\Debug\net6.0\appsettings.Development.json
+F:\Phase4\PracticeProject\Prac_Proj\WebAppBank\WebAppBank\bin\Debug\net6.0\appsettings.json
+F:\Phase4\PracticeProject\Prac_Proj\WebAppBank\WebAppBank\bin\Debug\net6.0\WebAppBank.staticwebassets.runtime.json
+F:\Phase4\PracticeProject\Prac_Proj\WebAppBank\WebAppBank\bin\Debug\net6.0\WebAppBank.exe
+F:\Phase4\PracticeProject\Prac_Proj\WebAppBank\WebAppBank\bin\Debug\net6.0\WebAppBank.deps.json
+F:\Phase4\PracticeProject\Prac_Proj\WebAppBank\WebAppBank\bin\Debug\net6.0\WebAppBank.runtimeconfig.json
+F:\Phase4\PracticeProject\Prac_Proj\WebAppBank\WebAppBank\bin\Debug\net6.0\WebAppBank.dll
+F:\Phase4\PracticeProject\Prac_Proj\WebAppBank\WebAppBank\bin\Debug\net6.0\WebAppBank.pdb
+F:\Phase4\PracticeProject\Prac_Proj\WebAppBank\WebAppBank\obj\Debug\net6.0\WebAppBank.csproj.AssemblyReference.cache
+F:\Phase4\PracticeProject\Prac_Proj\WebAppBank\WebAppBank\obj\Debug\net6.0\WebAppBank.GeneratedMSBuildEditorConfig.editorconfig
+F:\Phase4\PracticeProject\Prac_Proj\WebAppBank\WebAppBank\obj\Debug\net6.0\WebAppBank.AssemblyInfoInputs.cache
+F:\Phase4\PracticeProject\Prac_Proj\WebAppBank\WebAppBank\obj\Debug\net6.0\WebAppBank.AssemblyInfo.cs
+F:\Phase4\PracticeProject\Prac_Proj\WebAppBank\WebAppBank\obj\Debug\net6.0\WebAppBank.csproj.CoreCompileInputs.cache
+F:\Phase4\PracticeProject\Prac_Proj\WebAppBank\WebAppBank\obj\Debug\net6.0\WebAppBank.MvcApplicationPartsAssemblyInfo.cache
+F:\Phase4\PracticeProject\Prac_Proj\WebAppBank\WebAppBank\obj\Debug\net6.0\WebAppBank.RazorAssemblyInfo.cache
+F:\Phase4\PracticeProject\Prac_Proj\WebAppBank\WebAppBank\obj\Debug\net6.0\WebAppBank.RazorAssemblyInfo.cs
+F:\Phase4\PracticeProject\Prac_Proj\WebAppBank\WebAppBank\obj\Debug\net6.0\staticwebassets\msbuild.WebAppBank.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Phase4\PracticeProject\Prac_Proj\WebAppBank\WebAppBank\obj\Debug\net6.0\staticwebassets\msbuild.build.WebAppBank.props
+F:\Phase4\PracticeProject\Prac_Proj\WebAppBank\WebAppBank\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebAppBank.props
+F:\Phase4\PracticeProject\Prac_Proj\WebAppBank\WebAppBank\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebAppBank.props
+F:\Phase4\PracticeProject\Prac_Proj\WebAppBank\WebAppBank\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Phase4\PracticeProject\Prac_Proj\WebAppBank\WebAppBank\obj\Debug\net6.0\staticwebassets.build.json
+F:\Phase4\PracticeProject\Prac_Proj\WebAppBank\WebAppBank\obj\Debug\net6.0\staticwebassets.development.json
+F:\Phase4\PracticeProject\Prac_Proj\WebAppBank\WebAppBank\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Phase4\PracticeProject\Prac_Proj\WebAppBank\WebAppBank\obj\Debug\net6.0\scopedcss\bundle\WebAppBank.styles.css
+F:\Phase4\PracticeProject\Prac_Proj\WebAppBank\WebAppBank\obj\Debug\net6.0\scopedcss\projectbundle\WebAppBank.bundle.scp.css
+F:\Phase4\PracticeProject\Prac_Proj\WebAppBank\WebAppBank\obj\Debug\net6.0\WebAppBank.dll
+F:\Phase4\PracticeProject\Prac_Proj\WebAppBank\WebAppBank\obj\Debug\net6.0\refint\WebAppBank.dll
+F:\Phase4\PracticeProject\Prac_Proj\WebAppBank\WebAppBank\obj\Debug\net6.0\WebAppBank.pdb
+F:\Phase4\PracticeProject\Prac_Proj\WebAppBank\WebAppBank\obj\Debug\net6.0\WebAppBank.genruntimeconfig.cache
+F:\Phase4\PracticeProject\Prac_Proj\WebAppBank\WebAppBank\obj\Debug\net6.0\ref\WebAppBank.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F4ejCpGcKIDXHyVxH7hYLv7t2ErAsC5UQhRN8Y7y4f+cYAP1PfHkJGjAAG1zkdY1D+FYr9aeXo9J4TFHVjUpWQ==",
+  "success": true,
+  "projectFilePath": "F:\\Phase4\\PracticeProject\\Prac_Proj\\WebAppBank\\WebAppBank\\WebAppBank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
+  ],
+  "logs": []
+}
